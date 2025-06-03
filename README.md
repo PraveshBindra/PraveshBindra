@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I am a Director of Technology and Head of BPM/Rules for Creedit and Collections portfolio. With a strong background in both technology and business process management, I specialize in designing and implementing efficient and scalable solutions that streamline business operations and drive digital transformation.
+Hello! I am a Director of Technology and Head of BPM/Rules for Credit and Collections portfolio. With a strong background in both technology and business process management, I specialize in designing and implementing efficient and scalable solutions that streamline business operations and drive digital transformation.
 I am s Senior technology leader offering 18 years of expertise in leveraging cost-effective cutting-edge solutions, accelerated processes, strengthen collaboration, advance capabilities and minimize costs.
 
 ## Skills and Expertise
